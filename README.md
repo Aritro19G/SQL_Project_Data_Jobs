@@ -14,7 +14,7 @@ The goal is to provide **practical insights for aspiring data analysts in India*
 
 ---
 
-## ⚡ 1-Minute Recruiter Summary
+## ⚡ 1-Minute Summary
 
 - **What I did:**  
   Analyzed 2023 job postings to evaluate the **Data Analyst job market in India (non-remote roles)** using SQL, focusing on salary trends and skill demand  
