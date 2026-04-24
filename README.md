@@ -53,8 +53,8 @@ The goal is to provide **practical insights for aspiring data analysts in India*
  └── 5_optimal_skills.sql
 
 📁 assets/
- ├── charts/
- └── images/
+ ├── top_paying_jobs.png
+ └── top_paying_skills.png
 
 README.md
 ```
