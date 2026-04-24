@@ -1,3 +1,5 @@
+![thumbnail](assets/thumbnail.png)
+
 # 📊 Data Analyst Job Market Analysis — India (2023)
 
 ## 📌 Overview
