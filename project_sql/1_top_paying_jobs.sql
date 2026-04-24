@@ -1,8 +1,8 @@
 /*
-Question: What are the top-paying Data Scientist jobs?
-- Identify the top 10 highest paying Data Scientist roles that are available remotely.
+Question: What are the top-paying Data Analyst jobs?
+- Identify the top 10 highest paying Data Analyst roles that are available in India.
 - Foucuses on job postings with specified salaries
-- Why? Highlight the top paying opportunities for Data Scientists, offering insights into employment options and location flexibility.
+- Why? Highlight the top paying opportunities for Data Analysts, offering insights into employment options from India.
 */
 
 SELECT
@@ -16,8 +16,8 @@ SELECT
 FROM job_postings_fact
 LEFT JOIN company_dim ON job_postings_fact.company_id = company_dim.company_id
 WHERE 
-    job_title_short = 'Data Scientist' AND
-    job_location = 'Anywhere' AND
-    salary_year_avg IS NOT NULL
+    job_title_short = 'Data Analyst' AND
+    salary_year_avg IS NOT NULL AND
+    job_location = 'India'
 ORDER BY salary_year_avg DESC
 LIMIT 10;

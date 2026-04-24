@@ -1,1 +1,12 @@
-This will be edited later
+# Introduction
+
+# Background
+
+# Tools I used
+
+# The Analysis
+
+# What I Learned
+
+# Conclusion
+
