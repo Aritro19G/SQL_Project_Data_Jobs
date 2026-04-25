@@ -247,7 +247,7 @@ LIMIT 25;
 | shell      |      118500.00 |
 | spark      |      118332.45 |
 
-*Table of the average salary for the top 10 paying skills for data analysts*
+*Table of the average salary for the top 17 paying skills for data analysts*
 
 Here's a breakdown of the results for top paying skills for Data Analysts:
 * **Top salaries are driven by data engineering skills, not pure analysis**
