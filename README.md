@@ -4,7 +4,7 @@
 
 ## 📌 Overview
 
-This project analyzes the **Data Analyst job market in India (non-remote roles)** using SQL. It focuses on identifying:
+This project analyzes the **Data Analyst job market in India (non-remote roles)** by processing and filtering a global dataset of **700,000+** rows using SQL. It focuses on identifying:
 
 * 💰 Top-paying jobs
 * 🔥 Most in-demand skills
@@ -17,7 +17,7 @@ The goal is to provide **practical insights for aspiring data analysts in India*
 ## ⚡ 1-Minute Summary
 
 - **What I did:**  
-  Analyzed 2023 job postings to evaluate the **Data Analyst job market in India (non-remote roles)** using SQL, focusing on salary trends and skill demand  
+  Analyzed 2023 global job postings to evaluate the **Data Analyst job market in India (non-remote roles)** using SQL, focusing on salary trends and skill demand  
 
 - **What I found:**  
   - High-paying roles favor **data engineering + database skills** (Spark, Kafka, PostgreSQL)  
