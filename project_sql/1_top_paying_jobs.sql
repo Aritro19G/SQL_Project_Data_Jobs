@@ -1,5 +1,5 @@
 /*
-Question: What are the top-paying Data Analyst jobs?
+Question: What are the top-paying Data Analyst jobs in India?
 - Identify the top 10 highest paying Data Analyst roles that are available in India.
 - Foucuses on job postings with specified salaries
 - Why? Highlight the top paying opportunities for Data Analysts, offering insights into employment options from India.

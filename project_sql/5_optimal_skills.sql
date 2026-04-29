@@ -1,5 +1,5 @@
 /*
-Answer: What are the most optimal skills to learn (aka its in high demand and a high paying skill)
+Answer: What are the most optimal skills to learn (aka its in high demand and a high paying skill) in India?
 - Identify skills in high demand and associated with high average salaries for Data Scientist roles
 - Concentrates on remote positions with specified salaries
 - Why? Target skills that offer job security (high demand) and financial benefits (high salaries),
